@@ -29,7 +29,6 @@ personObject.age = 15
 console.log(personObject);
 
 // Delete
-delete personObject.height
 
 console.log(personObject);
 
